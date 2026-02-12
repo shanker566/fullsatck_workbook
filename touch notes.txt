@@ -1,0 +1,22 @@
+Git Version Control Notes
+
+1. git init
+   -> Initializes a new Git repository.
+
+2. git status
+   -> Shows the current status of files.
+
+3. git add .
+   -> Adds all files to staging area.
+
+4. git commit -m "message"
+   -> Saves changes with a commit message.
+
+5. git branch branch-name
+   -> Creates a new branch.
+
+6. git merge branch-name
+   -> Merges branch into current branch.
+
+7. git push
+   -> Uploads local commits to GitHub.
